@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SendEmail</string>
+    <string name="usuario">email_usuario_que_envia</string>
+    <string name="senha">senha_usuario_que_envia</string>
+    <string name="assunto">assunto teste email no app</string>
+    <string name="corpo_email">corpo teste email no app</string>
+    <string name="destinatario">email_destinatario</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="emailEnviado">Email enviado.</string>
+    <string name="falhaEnvioEmail">Falha no envio do email</string>
+    <string name="problemaInfoconta">Problema na informações da conta</string>
+    <string name="falhaAutenticacao">Falha na autenticação</string>
+    <string name="emailFailed">Email failed</string>
+    <string name="emailFailedSend">Email failed to send</string>
+    <string name="erroNaoTratado">Erro sem tratamento</string>
+</resources>
